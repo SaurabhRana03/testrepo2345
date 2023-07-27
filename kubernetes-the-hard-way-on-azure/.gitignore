@@ -1,0 +1,5 @@
+**/*secret*
+**/.terraform
+**/*.tfstate*
+**/certs*
+**/configs*
